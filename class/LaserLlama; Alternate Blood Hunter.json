@@ -514,6 +514,7 @@
 			"name": "Hunter's Bane",
 			"source": "LLABH",
 			"className": "Alternate Blood Hunter",
+			"foundryImg": "icons/skills/toxins/poison-skull-herbs-bottle-pink.webp",
 			"classSource": "LLABH",
 			"page": 1,
 			"level": 1,
@@ -609,7 +610,7 @@
 						},
 						{
 							"type": "refOptionalfeature",
-							"optionalfeature": "Great Weapon Fighting"
+							"optionalfeature": "Great Weapon Fighting|LLABH"
 						},
 						{
 							"type": "refOptionalfeature",
@@ -720,6 +721,7 @@
 		{
 			"name": "Grim Psychometry",
 			"source": "LLABH",
+			"foundryImg": "icons/magic/perception/hand-eye-fire-blue.webp",
 			"className": "Alternate Blood Hunter",
 			"classSource": "LLABH",
 			"page": 3,
@@ -733,6 +735,7 @@
 			"name": "Dark Augmentation",
 			"source": "LLABH",
 			"className": "Alternate Blood Hunter",
+			"foundryImg": "icons/magic/unholy/strike-body-life-soul-purple.webp",
 			"classSource": "LLABH",
 			"page": 3,
 			"level": 10,
@@ -743,6 +746,7 @@
 		{
 			"name": "Improved Crimson Offering",
 			"source": "LLABH",
+			"foundryImg": "icons/magic/fire/dagger-rune-enchant-flame-strong-red.webp",
 			"className": "Alternate Blood Hunter",
 			"classSource": "LLABH",
 			"page": 3,
@@ -755,6 +759,7 @@
 		{
 			"name": "Vital Control",
 			"source": "LLABH",
+			"foundryImg": "icons/magic/unholy/strike-body-life-soul-purple.webp",
 			"className": "Alternate Blood Hunter",
 			"classSource": "LLABH",
 			"page": 3,
@@ -789,6 +794,7 @@
 		{
 			"name": "Crimson Anchor",
 			"source": "LLABH",
+			"foundryImg": "icons/magic/control/debuff-chains-shackles-movement-blue.webp",
 			"className": "Alternate Blood Hunter",
 			"classSource": "LLABH",
 			"page": 4,
@@ -813,6 +819,7 @@
 			"name": "Hardened Soul",
 			"source": "LLABH",
 			"className": "Alternate Blood Hunter",
+			"foundryImg": "icons/magic/defensive/shield-barrier-glowing-blue.webp",
 			"classSource": "LLABH",
 			"page": 4,
 			"level": 15,
@@ -845,6 +852,7 @@
 		{
 			"name": "Sanguine Mastery",
 			"source": "LLABH",
+			"foundryImg": "icons/magic/death/skull-weapon-staff-glow-pink.webp",
 			"className": "Alternate Blood Hunter",
 			"classSource": "LLABH",
 			"page": 4,
@@ -1149,6 +1157,7 @@
 			"name": "Aberrant Alchemy",
 			"source": "LLABH",
 			"className": "Alternate Blood Hunter",
+			"foundryImg": "icons/consumables/potions/potion-flash-open-blue.webp",
 			"classSource": "LLABH",
 			"page": 4,
 			"subclassShortName": "Alchemist",
@@ -1185,6 +1194,7 @@
 		{
 			"name": "Enduring Mutation",
 			"source": "LLABH",
+			"foundryImg": "icons/consumables/potions/bottle-circular-corked-labeled-green.webp",
 			"className": "Alternate Blood Hunter",
 			"classSource": "LLABH",
 			"page": 5,
@@ -1201,6 +1211,7 @@
 			"name": "Noxious Strike",
 			"source": "LLABH",
 			"className": "Alternate Blood Hunter",
+			"foundryImg": "icons/creatures/abilities/stinger-poison-green.webp",
 			"classSource": "LLABH",
 			"page": 5,
 			"subclassShortName": "Alchemist",
@@ -1215,6 +1226,7 @@
 		{
 			"name": "Rapid Mutation",
 			"source": "LLABH",
+			"foundryImg": "icons/sundries/misc/hourglass-wood.webp",
 			"className": "Alternate Blood Hunter",
 			"classSource": "LLABH",
 			"page": 5,
@@ -1258,6 +1270,7 @@
 			"className": "Alternate Blood Hunter",
 			"classSource": "LLABH",
 			"page": 4,
+			"foundryImg": "icons/creatures/abilities/paw-print-orange.webp",
 			"subclassShortName": "Pale Moon",
 			"subclassSource": "LLABH",
 			"level": 3,
@@ -1273,6 +1286,7 @@
 		{
 			"name": "Hybrid Form",
 			"source": "LLABH",
+			"foundryImg": "icons/creatures/abilities/paw-print-pair-purple.webp",
 			"className": "Alternate Blood Hunter",
 			"classSource": "LLABH",
 			"page": 4,
@@ -1297,6 +1311,7 @@
 		{
 			"name": "Feral Senses",
 			"source": "LLABH",
+			"foundryImg": "icons/creatures/eyes/lizard-single-slit-green.webp",
 			"className": "Alternate Blood Hunter",
 			"classSource": "LLABH",
 			"page": 4,
@@ -1311,6 +1326,7 @@
 		{
 			"name": "Lycan Warrior",
 			"source": "LLABH",
+			"foundryImg": "icons/creatures/mammals/wolf-shadow-black.webp",
 			"className": "Alternate Blood Hunter",
 			"classSource": "LLABH",
 			"page": 5,
@@ -1333,6 +1349,7 @@
 		{
 			"name": "Feral Prowess",
 			"source": "LLABH",
+			"foundryImg": "icons/creatures/abilities/bear-roar-bite-brown-green.webp",
 			"className": "Alternate Blood Hunter",
 			"classSource": "LLABH",
 			"page": 5,
@@ -1349,6 +1366,7 @@
 			"name": "Transformation Mastery",
 			"source": "LLABH",
 			"className": "Alternate Blood Hunter",
+			"foundryImg": "icons/creatures/mammals/wolf-howl-moon-gray.webp",
 			"classSource": "LLABH",
 			"page": 5,
 			"subclassShortName": "Pale Moon",
@@ -1385,6 +1403,7 @@
 		{
 			"name": "Spectral Nature",
 			"source": "LLABH",
+			"foundryImg": "icons/magic/death/undead-ghost-strike-white.webp",
 			"className": "Alternate Blood Hunter",
 			"classSource": "LLABH",
 			"page": 4,
@@ -1402,6 +1421,7 @@
 		{
 			"name": "Warrior of the Dawn",
 			"source": "LLABH",
+			"foundryImg": "icons/magic/fire/flame-burning-hand-purple.webp",
 			"className": "Alternate Blood Hunter",
 			"classSource": "LLABH",
 			"page": 4,
@@ -1424,6 +1444,7 @@
 		{
 			"name": "Curse Specialist",
 			"source": "LLABH",
+			"foundryImg": "icons/magic/death/skeleton-eye-skull-glow-orange.webp",
 			"className": "Alternate Blood Hunter",
 			"classSource": "LLABH",
 			"page": 5,
@@ -1439,6 +1460,7 @@
 		{
 			"name": "Warrior Exorcist",
 			"source": "LLABH",
+			"foundryImg": "icons/magic/symbols/star-yellow.webp",
 			"className": "Alternate Blood Hunter",
 			"classSource": "LLABH",
 			"page": 5,
@@ -1455,6 +1477,7 @@
 		{
 			"name": "Sacrificial Offering",
 			"source": "LLABH",
+			"foundryImg": "icons/magic/death/hand-dirt-undead-zombie.webp",
 			"className": "Alternate Blood Hunter",
 			"classSource": "LLABH",
 			"page": 5,
@@ -1469,6 +1492,7 @@
 		{
 			"name": "Spectral Mastery",
 			"source": "LLABH",
+			"foundryImg": "icons/magic/death/undead-skeleton-lich-armor.webp",
 			"className": "Alternate Blood Hunter",
 			"classSource": "LLABH",
 			"page": 5,
@@ -1506,6 +1530,7 @@
 		{
 			"name": "Blood Magic Specialist",
 			"source": "LLABH",
+			"foundryImg": "icons/skills/wounds/blood-cells-vessel-red.webp",
 			"className": "Alternate Blood Hunter",
 			"classSource": "LLABH",
 			"page": 4,
@@ -1522,6 +1547,7 @@
 		{
 			"name": "Vampiric Nature",
 			"source": "LLABH",
+			"foundryImg": "icons/magic/death/mouth-teeth-fangs-vampire.webp",
 			"className": "Alternate Blood Hunter",
 			"classSource": "LLABH",
 			"page": 4,
@@ -1536,6 +1562,7 @@
 		{
 			"name": "Essence Drain",
 			"source": "LLABH",
+			"foundryImg": "icons/magic/unholy/hand-claw-fire-blue.webp",
 			"className": "Alternate Blood Hunter",
 			"classSource": "LLABH",
 			"page": 5,
@@ -1551,6 +1578,7 @@
 		{
 			"name": "Sinister Resilience",
 			"source": "LLABH",
+			"foundryImg": "icons/magic/unholy/strike-body-life-soul-green.webp",
 			"className": "Alternate Blood Hunter",
 			"classSource": "LLABH",
 			"page": 5,
@@ -1567,6 +1595,7 @@
 		{
 			"name": "Misty Escape",
 			"source": "LLABH",
+			"foundryImg": "icons/magic/air/fog-gas-smoke-blue-gray.webp",
 			"className": "Alternate Blood Hunter",
 			"classSource": "LLABH",
 			"page": 5,
@@ -1582,6 +1611,7 @@
 		{
 			"name": "Crimson Lord",
 			"source": "LLABH",
+			"foundryImg": "icons/creatures/mammals/bat-giant-tattered-purple.webp",
 			"className": "Alternate Blood Hunter",
 			"classSource": "LLABH",
 			"page": 5,
@@ -1683,6 +1713,7 @@
 		{
 			"name": "Crimson Smite",
 			"source": "LLABH",
+			"foundryImg": "icons/skills/targeting/crosshair-triple-strike-orange.webp",
 			"className": "Alternate Blood Hunter",
 			"classSource": "LLABH",
 			"page": 4,
@@ -1700,6 +1731,7 @@
 			"source": "LLABH",
 			"className": "Alternate Blood Hunter",
 			"classSource": "LLABH",
+			"foundryImg": "icons/magic/fire/dagger-rune-enchant-flame-purple-orange.webp",
 			"page": 5,
 			"subclassShortName": "Witch Knight",
 			"subclassSource": "LLABH",
@@ -1713,6 +1745,7 @@
 		{
 			"name": "Bewitched Strikes",
 			"source": "LLABH",
+			"foundryImg": "icons/magic/unholy/hand-weapon-glow-black-green.webp",
 			"className": "Alternate Blood Hunter",
 			"classSource": "LLABH",
 			"page": 5,
@@ -1727,6 +1760,7 @@
 		{
 			"name": "Profane Sacrifice",
 			"source": "LLABH",
+			"foundryImg": "icons/magic/death/weapon-scythe-rune-green.webp",
 			"className": "Alternate Blood Hunter",
 			"classSource": "LLABH",
 			"page": 5,
@@ -1735,7 +1769,7 @@
 			"level": 18,
 			"header": 2,
 			"entries": [
-				"18th-level Order of Witch Knights feature You can offer the death of your foes to your Eldritch Power for enhanced abilities. When a creature dies within 30 feet of you, you can use a reaction to regain one expended Pact Magic spell slot, or gain temporary hit points equal to one roll of your Rite Die + your Intelligence modifier.",
+				"You can offer the death of your foes to your Eldritch Power for enhanced abilities. When a creature dies within 30 feet of you, you can use a reaction to regain one expended Pact Magic spell slot, or gain temporary hit points equal to one roll of your Rite Die + your Intelligence modifier.",
 				"Once you use this feature you must finish a short or long rest before you can use it again."
 			]
 		}
@@ -2224,7 +2258,8 @@
 				"LLABH:FS"
 			],
 			"entries": [
-				"While you are wielding only light weapons and nothing else, your speed increases by 10 feet and you gain a +1 bonus to damage rolls with your light weapons, so long as you are not wearing medium or heavy armor, or wielding a shield."
+				"While you are unarmed or wielding only light weapons, and are not wearing medium or heavy armor, your walking speed increases by 10 feet, and you gain a +1 bonus to your damage rolls with light melee weapons and unarmed strikes.",
+
 			]
 		},
 		{
@@ -2235,7 +2270,8 @@
 				"LLABH:FS"
 			],
 			"entries": [
-				"When you take the Attack action while two-weapon fighting, you can make a single additional attack with your off-hand weapon as part of your action instead of your bonus action, adding your ability modifier to the damage of this attack."
+				"While two-weapon fighting, you make your off-hand weapon attack as part of your Attack action instead of a bonus action, and you add your ability modifier to the damage of this attack.",
+				"When you do, you cannot also make a bonus action attack."
 			]
 		},
 		{
@@ -2247,7 +2283,18 @@
 			],
 			"entries": [
 				"Having a hostile creature within 5 feet of you doesn't impose disadvantage on your ranged weapon attacks, so long as you are attacking a creature within 5 feet.",
-				"When you make a ranged weapon attack against a creature within 5 feet, you can use your bonus action to make a melee attack against it with your ranged weapon. On hit, you deal bludgeoning damage equal to {@dice 1d4} + your Strength modifier."
+				"When you make a ranged weapon attack against a creature within 5 feet, you can use your bonus action to make a melee attack against it with your ranged weapon. On hit, you deal bludgeoning damage equal to 1d4 + your Strength modifier."
+			]
+		},
+		{
+			"name": "Great Weapon Fighting",
+			"source": "LLABH",
+			"page": 2,
+			"featureType": [
+				"LLABH:FS"
+			],
+			"entries": [
+				"When you make a two-handed melee attack with a heavy weapon as part of your Attack action, you treat a total roll of 5 or lower on the weapon's damage dice as a 6."
 			]
 		},
 		{
@@ -2258,7 +2305,7 @@
 				"LLABH:FS"
 			],
 			"entries": [
-				"While wielding a single versatile weapon and no shield, you can choose to wield your weapon one or two-handed until the beginning of your next turn. When wielding it one-handed, you gain a +1 bonus to your Armor Class and your attack rolls with that weapon. When you wield it two-handed you gain a +2 bonus to your damage rolls with that weapon."
+				"While wielding a single versatile weapon and no shield, you gain a +1 bonus to your attack rolls with that weapon. While doing so, you can also use your bonus action to make a single grapple or shove attack, or to take the Use an Object action."
 			]
 		}
 	]
